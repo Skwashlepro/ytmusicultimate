@@ -1,4 +1,4 @@
-name: Build and Release YTMusicUltimate
+name: Build eand Release YTMusicUltimate
 
 on:
   workflow_dispatch:
